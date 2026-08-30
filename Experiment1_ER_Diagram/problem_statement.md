@@ -23,7 +23,8 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### ER Diagram:
 *Paste or attach your diagram here*  
-![ER Diagram](er_diagram_fitness.png)
+<img width="1536" height="1024" alt="gym er" src="https://github.com/user-attachments/assets/b54d0651-3511-42d9-a31b-ae8a2771c18b" />
+
 
 ### Entities and Attributes
 
@@ -65,7 +66,8 @@ The Central Library wants to manage book lending and cultural events.
 
 ### ER Diagram:
 *Paste or attach your diagram here*  
-![ER Diagram](er_diagram_library.png)
+<img width="1536" height="1024" alt="er city" src="https://github.com/user-attachments/assets/7acc4845-fbd4-4f7a-9223-f8a65943d4e0" />
+
 
 ### Entities and Attributes
 
@@ -107,7 +109,8 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### ER Diagram:
 *Paste or attach your diagram here*  
-![ER Diagram](er_diagram_restaurant.png)
+<img width="1536" height="1024" alt="res er" src="https://github.com/user-attachments/assets/19d8acfa-1ad7-42b7-9c17-a4b6fe74a58a" />
+
 
 ### Entities and Attributes
 
@@ -141,3 +144,4 @@ A popular restaurant wants to manage reservations, orders, and billing.
 3. Draw ER diagrams using **draw.io / diagrams.net** or hand-drawn & scanned.  
 4. Fill in all tables and assumptions for each scenario.  
 5. Export the completed Markdown (with diagrams) as **a single PDF**
+
